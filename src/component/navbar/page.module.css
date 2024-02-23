@@ -1,0 +1,14 @@
+.nav{
+    display: flex;
+    background-color: rgba(108, 60, 153, 0.76);
+    height: 80px;
+    max-width: 100dvw;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav a{
+    color: black;
+    font-size: 1.3rem;
+    text-decoration: none;
+}
